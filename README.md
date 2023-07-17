@@ -1,3 +1,4 @@
+![logo](https://github.com/Gopalkr12345/Gopal12345/commit/bdb3af35155adf5decdeee2a14e14e3001557f5c.png)
 <h1 align="center">Hi 👋, I'm Gopal Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
