@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Industry level project (House Price Prediction)](https://drive.google.com/drive/folders/1foFV7Y_Hi9rhT1v_WUCdFULTcTghqJ4l?usp=sharing)
 
-- 🌱 I’m currently learning **Django, .net, power BI, Tableau,**
+- 🌱 I’m currently learning **Django, .net, power BI, Tableau, Azure, System Design**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1foFV7Y_Hi9rhT1v_WUCdFULTcTghqJ4l?usp=sharing](https://drive.google.com/drive/folders/1foFV7Y_Hi9rhT1v_WUCdFULTcTghqJ4l?usp=sharing)
 
