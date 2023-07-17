@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gk8456558@gmail.com**
 
-- 📄 Know about my experiences [I have a experience about industry level live projects](I have a experience about industry level live projects)
+- 📄 Know about my experiences [I have a experience about industry level live projects](House Price Prediction projects)
 
 - ⚡ Fun fact **I am Funny 😎**
 
